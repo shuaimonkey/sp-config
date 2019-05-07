@@ -4,7 +4,7 @@ spring:
     name: hystrix-dashboard
   rabbitmq:
     host: 172.86.100.188
-    port: 5672
+    port: 15672
     username: admin
     password: admin
     
